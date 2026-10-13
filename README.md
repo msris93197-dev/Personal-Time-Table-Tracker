@@ -2,6 +2,10 @@
 
 A static, dependency-free tracker for Srikanth's DSA, system design, web development, E-commerce build, and daily Tamil learning. No installation or build step is needed for GitHub Pages.
 
+Live tracker: https://msris93197-dev.github.io/Personal-Time-Table-Tracker/
+
+Repository: https://github.com/msris93197-dev/Personal-Time-Table-Tracker
+
 ## Use it
 
 Open the website through GitHub Pages or a local HTTP server. Directly opening index.html works in many browsers, but browser storage on file URLs is not consistently specified. Use an HTTP server for dependable local use.
@@ -69,6 +73,6 @@ No automatic file access, Excel upload, user accounts, cloud syncing, analytics 
 
 ## Verification
 
-JavaScript syntax was checked with Node. Browser checks covered daily rendering, logging and persistence after reload, weekly totals, consistency, project and library views, and settings. Test minutes/notes were reverted after verification. The source package is ready for GitHub Pages; deployment needs a selected repository.
+JavaScript syntax was checked with Node. Browser checks covered daily rendering, logging and persistence after reload, weekly totals, consistency, project and library views, and settings. Test minutes/notes were reverted after verification. Isolated checks passed for dated seed mapping, Sunday rest, Saturday durations, completion/time metrics, JSON round-trip and invalid backup rejection. The live GitHub Pages website was opened successfully with no browser console errors. Commits are authored and committed by msris93197-dev, without co-author entries.
 
 References: [MDN localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) · [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages).
