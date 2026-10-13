@@ -33,7 +33,7 @@ Source and the supplied plan in `seed.js` are visible to visitors if you publish
 
 ## A useful daily workflow
 
-- Select today's date. Default sessions are suggestions, and source learning topics are aligned to their original dates, 23 September–21 November 2026.
+- Select today's date. Default sessions are suggestions, and the first DSA/system design topics and project session start on 14 October 2026. The 60-day plan now runs through 12 December 2026, preserving Saturday sessions and Sunday rest.
 - Use **Notes & log** to change a goal, start time, duration, actual minutes, status, or notes. All sessions accept notes and links as text.
 - Use **▶** for a count-up focus timer. Pause for breaks; **Finish & log** adds rounded minutes and opens the session so you can choose its final status. An active timer runs only in the open page and is not restored after closing/reloading. Unsaved timer time triggers a leave-page warning.
 - A completion tick does not invent actual time. Record minutes separately. Partial or skipped sessions remain visible.
@@ -55,7 +55,7 @@ Imported source content:
 - `60-Day-Prep-Planner.xlsx`: 60 dated days of DSA/system design, 60 DSA library topics, and 51 system design library sessions.
 - The provided YouTube link is available on Tamil tasks and in the learning library. Playlist lesson titles were not retrieved. Store lesson numbers, vocabulary and pronunciation doubts in task notes.
 
-The originals remain unchanged. Workbook instructions are displayed as reference content, not commands to this app. CAT is not included because it was outside the requested tracking areas. Web development has no supplied standalone syllabus, so its tasks are editable placeholders.
+The original workbook dates remain in source metadata for reference. The website plan is shifted three weeks to begin on 14 October 2026. Existing notes, actual minutes, completed sessions and customised goals are preserved; untouched planned source goals are updated automatically on reload. Dates before the start have no automatically generated sessions. The original workbook dates remain in source metadata for reference. The website plan is shifted three weeks to begin on 14 October 2026. Existing notes, actual minutes, completed sessions and customised goals are preserved; untouched planned source goals are updated automatically on reload. Dates before the start have no automatically generated sessions. The originals remain unchanged. Workbook instructions are displayed as reference content, not commands to this app. CAT is not included because it was outside the requested tracking areas. Web development has no supplied standalone syllabus, so its tasks are editable placeholders.
 
 The tracker does not re-read Excel after publication, update Excel, or synchronize with Saroj. Saroj completion is only a personal local record. Keep the shared workbook as your project's shared source of truth.
 
